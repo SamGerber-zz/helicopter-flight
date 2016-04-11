@@ -3,6 +3,8 @@ Dodge the birds and collect the coins, but don't run out of fuel!
 
 [Live link!](https://samgerber.github.io/helicopter-flight/)
 
+![gameplay](./chopper_flight.gif)
+
 ## How It's Made
 Helicopter Flight is built with JavaScript and HTML5 canvas.
 
